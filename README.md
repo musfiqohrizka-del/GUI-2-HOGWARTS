@@ -1,14 +1,5 @@
 # Form Pendaftaran Siswa Hogwarts
-
-## Deskripsi
-
-Program ini merupakan aplikasi Graphical User Interface (GUI) sederhana menggunakan Java Swing untuk simulasi pendaftaran siswa Hogwarts.
-
-Aplikasi ini memungkinkan pengguna untuk mengisi data pribadi, memilih jenis kelamin, menentukan asrama Hogwarts, memilih minat, serta menampilkan hasil pendaftaran melalui dialog.
-
-## 1. Komponen Utama GUI
-
-Berikut adalah lima komponen utama GUI yang digunakan dalam program ini:
+## Komponen Utama GUI
 
 ### 1. Top-Level Container Class
 
